@@ -4,9 +4,9 @@
 * **Kite**: Another AI coding assistant that offers code completions and snippets, helping you code faster and with fewer errors.
 
 ## Automated Testing with AI
-* Testim
-* Mabl
-* Applitools
+* **Testim**: Uses machine learning to automate UI testing. It creates robust tests that adapt to changes in the UI.
+* **Mabl**: An AI-driven testing tool that provides end-to-end test automation with self-healing capabilities.
+* **Applitools**: Focuses on visual testing and monitoring, using AI to ensure that web and mobile apps look and function correctly.
 
 ## Bug Detection & Code Review
 * DeepCode
