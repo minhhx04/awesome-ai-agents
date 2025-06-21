@@ -9,9 +9,9 @@
 * **Applitools**: Focuses on visual testing and monitoring, using AI to ensure that web and mobile apps look and function correctly.
 
 ## Bug Detection & Code Review
-* DeepCode
-* Snyk
-* Codota
+* **DeepCode**: An AI-powered code review tool that provides real-time feedback and suggestions to improve code quality.
+* **Snyk**: Focuses on security vulnerabilities, helping developers identify and fix issues in their code, dependencies, and container images.
+* **Codota**: Uses AI to offer code completions and insights, reducing the likelihood of bugs and improving overall code quality.
 
 ## Data Management and Analysis
 * TensorFlow
