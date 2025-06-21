@@ -1,7 +1,7 @@
 ## AI-Powered Coding Assistants
-* GitHub Copilot: Powered by OpenAI's Codex, GitHub Copilot offers code suggestions and completions directly within your editor. It supports multiple programming languages and can significantly speed up the coding process.
-* Tabnine: An AI assistant that provides smart code completions based on your coding context. It integrates with various IDEs and supports multiple languages.
-* Kite: Another AI coding assistant that offers code completions and snippets, helping you code faster and with fewer errors.
+* **GitHub Copilot**: Powered by OpenAI's Codex, GitHub Copilot offers code suggestions and completions directly within your editor. It supports multiple programming languages and can significantly speed up the coding process.
+* **Tabnine**: An AI assistant that provides smart code completions based on your coding context. It integrates with various IDEs and supports multiple languages.
+* **Kite**: Another AI coding assistant that offers code completions and snippets, helping you code faster and with fewer errors.
 
 ## Automated Testing with AI
 * Testim
