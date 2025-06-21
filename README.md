@@ -8,3 +8,7 @@
 * Mabl
 * Applitools
 
+## Bug Detection & Code Review
+* DeepCode
+* Snyk
+* Codota
