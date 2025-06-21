@@ -14,9 +14,9 @@
 * **Codota**: Uses AI to offer code completions and insights, reducing the likelihood of bugs and improving overall code quality.
 
 ## Data Management and Analysis
-* TensorFlow
-* PyTorch
-* Google AI Platform
+* **TensorFlow**: An open-source machine learning framework that enables developers to build and train AI models.
+* **PyTorch**: Another popular machine learning framework known for its flexibility and ease of use.
+* **Google AI Platform**: Provides a suite of tools for building, deploying, and managing machine learning models.
 
 ## Development Environments
 * VS Code
