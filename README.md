@@ -12,3 +12,9 @@
 * DeepCode
 * Snyk
 * Codota
+
+## Data Management and Analysis
+* TensorFlow
+* PyTorch
+* Google AI Platform
+
