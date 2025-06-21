@@ -18,3 +18,6 @@
 * PyTorch
 * Google AI Platform
 
+## Development Environments
+* VS Code
+* IntelliJ IDEA
